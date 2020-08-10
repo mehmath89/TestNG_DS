@@ -1,0 +1,6 @@
+2020-08-10 02:44:07,384  INFO [main] MainPageTest:38 - url is launched https://darksky.net/
+2020-08-10 02:44:07,978  INFO [main] MainPageTest:46 - starting ------->>>>>> allActionsTest
+2020-08-10 02:44:15,847  INFO [main] MainPageTest:48 - ending ------->>>>>> allActionsTest
+2020-08-10 02:44:15,847  WARN [main] MainPageTest:49 - some warning
+2020-08-10 02:44:15,848 ERROR [main] MainPageTest:50 - some error
+2020-08-10 02:44:15,848 FATAL [main] MainPageTest:51 - fatal error

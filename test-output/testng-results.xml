@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14792" started-at="2020-08-10T02:44:01 EDT" finished-at="2020-08-10T02:44:16 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14792" started-at="2020-08-10T02:44:01 EDT" finished-at="2020-08-10T02:44:16 EDT">
+      <class name="com.qa.darksky.tests.MainPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.darksky.tests.MainPageTest@2c767a52]" name="setUp" is-config="true" duration-ms="5869" started-at="2020-08-10T02:44:01 EDT" finished-at="2020-08-10T02:44:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="allActionsTest()[pri:0, instance:com.qa.darksky.tests.MainPageTest@2c767a52]" name="allActionsTest" duration-ms="8306" started-at="2020-08-10T02:44:07 EDT" finished-at="2020-08-10T02:44:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allActionsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.darksky.tests.MainPageTest@2c767a52]" name="tearDown" is-config="true" duration-ms="308" started-at="2020-08-10T02:44:16 EDT" finished-at="2020-08-10T02:44:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.darksky.tests.MainPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
